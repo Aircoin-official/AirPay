@@ -1,2 +1,2 @@
 # AirPay
-Payment system for $AIR
+Payment system for AIR
